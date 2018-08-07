@@ -1,0 +1,20 @@
+
+body{
+   
+    background-color:#589597c1;
+    text-align: center;
+
+}
+.jumbotron{
+  background-color: rgba(245, 245, 220, 0.72);
+  height:400%
+}
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
